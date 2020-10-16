@@ -2,6 +2,7 @@
 For Cousera project 
 
 1) Introduction/Business Problem
+
 Imagine the following scenario:
 
 a)You want to open a restaurant in Toronto, but have no idea which place choose. Especially concerning the surrounding competitors and income level of that neighborhood.
