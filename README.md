@@ -1,6 +1,7 @@
 # Coursera_Capstone
 For Cousera project 
 
+
 1) Introduction/Business Problem
 
 Imagine the following scenario:
